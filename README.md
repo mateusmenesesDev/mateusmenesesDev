@@ -6,9 +6,6 @@
 
 <br/>
 
-![Mateus GitHub stats](https://github-readme-stats.vercel.app/api?username=mattzteugithub&theme=dracula&show_icons=true)
-
-
 ### Tecnologias que domino
 
 <div style="display: inline-block"><br/>
@@ -36,5 +33,3 @@
     
     
 </div><br/><br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mattzteugithub)](https://github.com/anuraghazra/github-readme-stats)

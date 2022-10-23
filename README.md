@@ -151,13 +151,13 @@
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
 <br><br>
 <p align="center">
-  <a href="mateusppa10@gmail.com" alt="Gmail" target="_blank">
+  <a href="mailto:mateusppa10@gmail.com" alt="Gmail" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
   </a>
   <a href="https://www.linkedin.com/in/mateus-meneses/" alt="Linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5579999320778." alt="WhatsApp" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5579999320778" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
   </a>
   <a href="https://www.instagram.com/mateus.meneses.3/" alt="Instagram" target="_blank">

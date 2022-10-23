@@ -118,7 +118,7 @@
 </table align="center">
 <br><br>
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ que pretendo aprender</i></h2>
-<table>
+<table align="center">
     <tr>
         <td align="center">
             <img src="https://skillicons.dev/icons?i=next" width="65px" alt="Next icon"/><br>
@@ -127,6 +127,14 @@
                 <pre>NextJs</pre>
                 </b>
             </sub>
+        </td>
+        <td align="center">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
+        <sub>
+            <b>
+            <pre>NodeJS</pre>
+            </b>
+        </sub>
         </td>
         <td align="center">
         <img src="https://skillicons.dev/icons?i=express" width="65px" alt="ExpressJS icon"/><br>
@@ -145,7 +153,7 @@
       </sub>
     </td>
     </tr>
-</table>
+</table align="center">
 <br><br>
     
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>

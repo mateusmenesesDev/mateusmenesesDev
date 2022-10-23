@@ -10,7 +10,7 @@
 <br>
 
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<table align="center">
+<table align="center" height="279px">
   <tr>
    <td align="center">
       <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>

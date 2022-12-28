@@ -178,8 +178,6 @@
 <details open>
 <summary>📈 &ensp; <i>Ａｔｉｖｉｄａｄｅ</i></summary>
 <br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=mateusmenesesDev&theme=tokyo-night&hide_border=true">
-<br><br>
 <img align="left" height="415px"
 width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmenesesDev&langs_count=8&theme=tokyonight&hide_border=true">
 <div align="right">

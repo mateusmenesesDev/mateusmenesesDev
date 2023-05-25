@@ -155,7 +155,7 @@
     </tr>
 </table align="center">
 <br><br>
-    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusmenesesDev)](https://github.com/mateusmenesesDev/github-readme-stats)
 <h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
 <br><br>
 <p align="center">

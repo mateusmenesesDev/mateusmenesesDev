@@ -54,14 +54,14 @@
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=styledcomponents" width="60px" alt="styled-components icon"/><br>
-      <sub>
-        <b>
-          <pre>Styled<br>Components</pre>
-        </b>
-      </sub>
-    </td>
+      <td align="center">
+            <img src="https://skillicons.dev/icons?i=next" width="65px" alt="Next icon"/><br>
+            <sub>
+                <b>
+                <pre>NextJs</pre>
+                </b>
+            </sub>
+        </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="NodeJS icon"/><br>
       <sub>
@@ -120,14 +120,6 @@
 <h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ que pretendo aprender</i></h2>
 <table align="center">
     <tr>
-        <td align="center">
-            <img src="https://skillicons.dev/icons?i=next" width="65px" alt="Next icon"/><br>
-            <sub>
-                <b>
-                <pre>NextJs</pre>
-                </b>
-            </sub>
-        </td>
         <td align="center">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
         <sub>

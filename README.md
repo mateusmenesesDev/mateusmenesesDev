@@ -115,12 +115,8 @@
     </td>
     
   </tr>
-</table align="center">
-<br><br>
-<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ que pretendo aprender</i></h2>
-<table align="center">
-    <tr>
-        <td align="center">
+  <tr>
+<td align="center">
         <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
         <sub>
             <b>
@@ -136,6 +132,13 @@
             </b>
         </sub>
         </td>
+      
+  </tr>
+</table align="center">
+<br><br>
+<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ que pretendo aprender</i></h2>
+<table align="center">
+    <tr>
         <td align="center">
       <img src="https://skillicons.dev/icons?i=vue" width="65px" alt="Vue icon"/><br>
       <sub>

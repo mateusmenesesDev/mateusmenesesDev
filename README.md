@@ -1,172 +1,99 @@
-<h2 align="center">📇 &ensp; <i>Ｓｏｂｒｅ</i></h2>
+<h1 align="left">Olá 👋 Tudo bem?</h1>
 
-<br>
+###
 
-<ul align="left">
-    <li>Apaixonado por Tecnologia, Desenvolvimento e Agile.</li>
-    <li>Formado, pelo IFS, no curso Superior de Gestão em T.I</li>
-    <li>Experiente em projetos que utilizam SCRUM</li>
-</ul>
-<br>
+<p align="left">Me chamo Mateus Meneses! Sou um desenvolvedor web full stack. Apaixonado por tecnologia e com várias experiências chave na área tech. Já participei de diversos projetos seja como Dev, Scrum Master, Product Owner e até mesmo Diretor de Tecnologia e Inovação.</p>
 
-<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ</i></h2>
-<table align="center" height="279px">
-  <tr>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="65px" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML5</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="65px" alt="CSS3 icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;CSS3&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="65px" alt="Javascript icon"/><br>
-      <sub>
-        <b>
-          <pre>Javascript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=typescript" width="65px" alt="Typescript icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;Typescript&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="65px" alt="ReactJS icon"/><br>
-      <sub>
-        <b>
-          <pre>ReactJS</pre>
-        </b>
-      </sub>
-    </td>
-      <td align="center">
-            <img src="https://skillicons.dev/icons?i=next" width="65px" alt="Next icon"/><br>
-            <sub>
-                <b>
-                <pre>NextJs</pre>
-                </b>
-            </sub>
-        </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="NodeJS icon"/><br>
-      <sub>
-        <b>
-          <pre>Tailwind</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="65px" alt="Bootstrap icon"/><br>
-      <sub>
-        <b>
-          <pre>Bootstrap</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
+###
 
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=firebase" width="65px" alt="firebase icon"/><br>
-      <sub>
-        <b>
-          <pre>FireBase</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="60px" alt="git icon"/><br>
-      <sub>
-        <b>
-          <pre>Git</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub icon"/><br>
-      <sub>
-        <b>
-          <pre>GitHub</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://user-images.githubusercontent.com/86276393/177149370-01f7c4a4-9763-478f-938c-ec3d4e7c76c5.png" width="65px" alt="Axios icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;Axios&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-    
-  </tr>
-  <tr>
-<td align="center">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65px" alt="NodeJS icon"/><br>
-        <sub>
-            <b>
-            <pre>NodeJS</pre>
-            </b>
-        </sub>
-        </td>
-        <td align="center">
-        <img src="https://skillicons.dev/icons?i=express" width="65px" alt="ExpressJS icon"/><br>
-        <sub>
-            <b>
-            <pre>ExpressJS</pre>
-            </b>
-        </sub>
-        </td>
-      
-  </tr>
-</table align="center">
-<br><br>
-<h2 align="center">🛠️ &ensp; <i>Ｔｅｃｎｏｌｏｇｉａｓ que pretendo aprender</i></h2>
-<table align="center">
-    <tr>
-        <td align="center">
-      <img src="https://skillicons.dev/icons?i=vue" width="65px" alt="Vue icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;Vue&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-    </tr>
-</table align="center">
-<br><br>
+<h2 align="left">Alguns fatos sobre mim</h2>
 
-<h2 align="center">📩 &ensp; <i>Ｃｏｎｔａｔｏ</i></h2>
-<br><br>
-<p align="center">
-  <a href="mailto:mateusppa10@gmail.com" alt="Gmail" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail">
+###
+
+<p align="left">✨ Estou trabalhando na criação de uma solução de ERP para pequenas e médias empresas<br>📚 Tenho curso superior em Gestão em Tecnologia da Informação<br>🎯 Virei um dev para criar soluções que facilitem a vida das empresas</p>
+
+###
+
+<h2 align="left">Algumas das techs que utilizo</h2>
+
+###
+
+<p align="left">FRONT-END</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+</div>
+
+###
+
+<p align="left">BACK-END</p>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sequelize" height="40" alt="sequelize logo"  />
+</div>
+
+###
+
+<p align="left">SERVICES</p>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mateusmenesesDev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateusmenesesDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">Contato</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/mateus-meneses/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/mateus-meneses/" alt="Linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin">
+  <a href="https://www.youtube.com/@mateusmenesesDev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a href="https://api.whatsapp.com/send?phone=5579999320778" alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp">
+  <a href="mailto:mateusppa10@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/mateus.meneses.3/" alt="Instagram" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram">
+  <a href="https://api.whatsapp.com/send?phone=5579999320778" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
-</p>
-<br><br><br>
+</div>
 
-<h2 align="center">
+###

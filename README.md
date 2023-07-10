@@ -82,16 +82,16 @@
 ###
 
 <div align="left">
-  <a target="_blank" href="https://www.linkedin.com/in/mateus-meneses/" target="_blank">
+  <a href="https://www.linkedin.com/in/mateus-meneses/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a target="_blank" href="https://www.youtube.com/@mateusmenesesDev" target="_blank">
+  <a href="https://www.youtube.com/@mateusmenesesDev" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
-  <a target="_blank" href="mailto:mateusppa10@gmail.com" target="_blank">
+  <a href="mailto:mateusppa10@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a target="_blank" href="https://api.whatsapp.com/send?phone=5579999320778" target="_blank">
+  <a href="https://api.whatsapp.com/send?phone=5579999320778" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>

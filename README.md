@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Estou trabalhando na criação de uma solução de ERP para pequenas e médias empresas<br>📚 Tenho curso superior em Gestão em Tecnologia da Informação<br>🎯 Virei um dev para criar soluções que facilitem a vida das empresas</p>
+<p align="left">✨ Estou trabalhando na criação de uma solução de ERP para pequenas e médias empresas<br>:rocket: Trabalho como tech lead e desenvolvedor em uma software house<br><br>📚 Tenho curso superior em Gestão em Tecnologia da Informação<br>🎯 Virei um dev para criar soluções que facilitem a vida das empresas</p>
 
 ###
 

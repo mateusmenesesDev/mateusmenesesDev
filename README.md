@@ -1,20 +1,20 @@
-<h1 align="left">Olá 👋 Tudo bem?</h1>
+<h1 align="left">Hello 👋 How are you?</h1>
 
 ###
 
-<p align="left">Me chamo Mateus Meneses! Sou um desenvolvedor web full stack. Apaixonado por tecnologia e com várias experiências chave na área tech. Já participei de diversos projetos seja como Dev, Scrum Master, Product Owner e até mesmo Diretor de Tecnologia e Inovação.</p>
+<p align="left">My name is Mateus Meneses! I'm a full stack web developer. Passionate about technology and with several key experiences in the tech area. I have participated in various projects as a Dev, Scrum Master, Product Owner, and even Director of Technology and Innovation.</p>
 
 ###
 
-<h2 align="left">Alguns fatos sobre mim</h2>
+<h2 align="left">Some facts about me</h2>
 
 ###
 
-<p align="left">✨ Estou trabalhando na criação de uma solução de ERP para pequenas e médias empresas<br>:rocket: Trabalho como tech lead e desenvolvedor em uma software house<br><br>📚 Tenho curso superior em Gestão em Tecnologia da Informação<br>🎯 Virei um dev para criar soluções que facilitem a vida das empresas</p>
+<p align="left">✨ I'm working on creating an ERP solution for small and medium-sized businesses<br>:rocket: I work as a tech lead and developer at a software house<br><br>📚 I have a bachelor's degree in Information Technology Management<br>🎯 I became a developer to create solutions that make companies' lives easier</p>
 
 ###
 
-<h2 align="left">Algumas das techs que utilizo</h2>
+<h2 align="left">Some of the tech I use</h2>
 
 ###
 
@@ -81,7 +81,7 @@
 
 ###
 
-<h2 align="left">Contato</h2>
+<h2 align="left">Contact</h2>
 
 ###
 
@@ -90,7 +90,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.youtube.com/@mateusmenesesDev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesou
+
+za/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
   <a href="mailto:mateusppa10@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />

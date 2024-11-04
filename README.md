@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mateus Meneses! I'm a full stack web developer. Passionate about technology and with several key experiences in the tech area. I have participated in various projects as a Dev, Scrum Master, Product Owner, and even Director of Technology and Innovation.</p>
+<p align="left">My name is Mateus Meneses! I'm a senior full stack web developer. Passionate about technology and with several key experiences in the tech area. I have participated in various projects as a Dev, Scrum Master, Product Owner, and even Director of Technology and Innovation.</p>
 
 ###
 
@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ I'm working on creating an ERP solution for small and medium-sized businesses<br>:rocket: I work as a tech lead and developer at a software house<br><br>📚 I have a bachelor's degree in Information Technology Management<br>🎯 I became a developer to create solutions that make companies' lives easier</p>
+<p align="left">
+  ✨ I'm working on a system to to facilitate the growth of new software developers<br>
+  ✨ I'm working on creating an ERP solution for small and medium-sized businesses<br>
+  :rocket: I work as a tech lead and developer at a software house
+  <br><br>
+  📚 I have a bachelor's degree in Information Technology Management<br>
+  🎯 I became a developer to create solutions that make companies' lives easier</p>
 
 ###
 
